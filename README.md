@@ -6,12 +6,12 @@ Just enough stuff to help you setup a small event, like a PyDay
 How to get started (In Linux)
 -----------------------------
 
-Create a virtualenv and activate it::
+Create a virtualenv and activate it:
 
     virtualenv venv
     . venv/bin/activate
 
-Install Nikola in it::
+Install Nikola in it:
 
     pip install nikola
 
@@ -25,15 +25,12 @@ From now on, whenever you need to use Nikola, always remember to activate the vi
 How to get your site built
 --------------------------
 
-::
 
     cd site
     nikola build
 
 How to see the results
 ----------------------
-
-::
 
     nikola serve
     xdg-open http://localhost:8000
@@ -52,15 +49,16 @@ Edit ``site/conf.py`` and change the obvious things::
     TRANSLATIONS
     SIDEBAR_LINKS (maybe)
 
-And now, edit the files inside ``stories`` to change the site's contents. Those files are written in `reStructuredText <http://nikola.ralsina.com.ar/quickstart.html>`_
+And now, edit the files inside ``stories`` to change the site's contents. Those files are written in [reStructuredText](http://nikola.ralsina.com.ar/quickstart.html)
 
 How to make it not look like a generic bootstrap site
 -----------------------------------------------------
 
-Get a theme from http://themes.nikola.ralsina.com.ar or `create your own <http://nikola.ralsina.com.ar/creating-a-theme.html>`_
+Get a theme from http://themes.nikola.ralsina.com.ar or [create your own](http://nikola.ralsina.com.ar/creating-a-theme.html)
 
-How to <other thing>
+Rebuild and check as needed.
+
+How to [other thing]
 --------------------
 
-Ask at the `Nikola discuss google group <http://groups.google.com/group/nikola-discuss>`_
-Rebuild and check as needed.
+Ask at the [Nikola discuss google group](http://groups.google.com/group/nikola-discuss).
