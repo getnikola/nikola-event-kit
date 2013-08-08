@@ -100,10 +100,10 @@ SIDEBAR_LINKS = {
 #
 
 post_pages = (
-    ("posts/*.txt", "posts", "post.tmpl", True),
-    ("posts/*.rst", "posts", "post.tmpl", True),
-    ("stories/*.txt", "stories", "story.tmpl", False),
-    ("stories/*.rst", "stories", "story.tmpl", False),
+    ("posts/*.txt", "news", "post.tmpl", True),
+    ("posts/*.rst", "news", "post.tmpl", True),
+    ("stories/*.txt", "", "story.tmpl", False),
+    ("stories/*.rst", "", "story.tmpl", False),
 )
 
 # One or more folders containing files to be copied as-is into the output.
@@ -338,7 +338,7 @@ CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
 # This can be disabled on a per-page/post basis by adding
 #    .. pretty_url: False
 # to the metadata
-# PRETTY_URLS = False
+PRETTY_URLS = True
 
 # Do you want a add a Mathjax config file?
 # MATHJAX_CONFIG = ""
