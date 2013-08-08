@@ -5,4 +5,42 @@
 .. title: Location
 .. slug: location
 
-Write your post here.
+.. sidebar:: What should be here
+
+    This page should describe where this event takes place.
+    You should mention the address, including city and everything.
+
+    A nice google map pointing to the spot like this is a nice touch.
+
+    Also a good idea:
+
+    * How to get there using public transportation
+    * How to get there by car
+    * Parking availability
+    * Places to eat during lunch breaks
+    * A reminder of the rough schedule (start/finish/breaks)
+    * Hints about accomodations for those who need to stay overnight
+    
+My Little Python Meeting takes place at the Royal Albert Hall, located at Kensington Gore, 
+London SW7 2AP, United Kingdom, on January 32nd, 2022.
+
+You can get there by many different bus lines. The closest underground station is 
+South Kensington in the District Line, located 800 meters away.
+
+There is absolutely no place to park, so arriving by car is insane (just kidding, this is an
+example, kids).
+
+Sessions start at 9AM and end at 5PM with a lunch break between 12:30 and 13:30.
+Remember that registration is at 8:30 AM so arrive early.
+
+During the lunch break, cucumber sandwiches will be provided for free. 
+If you feel more adventurous, there is a number of restaurants nearby.
+
+In case you need to stay overnight, accomodations can be arranged in Hyde Park 
+benches.
+
+.. raw:: html
+
+   <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=es-419&amp;q=Royal+Albert+Hall,+Londres,+Gran+Londres+SW7+2AP,+Reino+Unido&amp;aq=&amp;sll=35.101934,-95.712891&amp;sspn=62.430715,128.144531&amp;ie=UTF8&amp;geocode=FZDXEQMd5Er9_w&amp;split=0&amp;hq=&amp;hnear=Royal+Albert+Hall,+Londres+SW7+2AP,+Reino+Unido&amp;t=m&amp;z=14&amp;ll=51.500944,-0.177436&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=es-419&amp;q=Royal+Albert+Hall,+Londres,+Gran+Londres+SW7+2AP,+Reino+Unido&amp;aq=&amp;sll=35.101934,-95.712891&amp;sspn=62.430715,128.144531&amp;ie=UTF8&amp;geocode=FZDXEQMd5Er9_w&amp;split=0&amp;hq=&amp;hnear=Royal+Albert+Hall,+Londres+SW7+2AP,+Reino+Unido&amp;t=m&amp;z=14&amp;ll=51.500944,-0.177436" style="color:#0000FF;text-align:left">Ver mapa más grande</a></small>
+   
+* 
