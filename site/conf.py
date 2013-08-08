@@ -154,7 +154,7 @@ post_compilers = {
 # TAG_PAGES_ARE_INDEXES = True
 
 # Final location is output / TRANSLATION[lang] / INDEX_PATH / index-*.html
-# INDEX_PATH = ""
+INDEX_PATH = "news"
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
