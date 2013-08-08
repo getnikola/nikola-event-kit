@@ -9,7 +9,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Your Name"
-BLOG_TITLE = "My Little Python Day"
+BLOG_TITLE = "My Little Python Meeting"
 # This is the main URL for your site. It will be used
 # in a prominent link
 SITE_URL = "http://pyday-foo.python.org"
