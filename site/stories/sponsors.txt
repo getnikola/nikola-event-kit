@@ -5,7 +5,7 @@
 .. title: Sponsors
 .. slug: sponsors
 
-.. sidebar:: What should be here
+.. admonition:: What should be here
 
    Well, if you have sponsors, then the sponsors.
    

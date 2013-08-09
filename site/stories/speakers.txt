@@ -5,7 +5,7 @@
 .. title: Speakers
 .. slug: speakers
 
-.. sidebar:: What should be here
+.. admonition:: What should be here
 
    A list of everyone speaking either in order of importance or alphabetical,
    with pictures, short bios and a description of what they will talk about.

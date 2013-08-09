@@ -5,7 +5,7 @@
 .. title: Schedule
 .. slug: schedule
 
-.. sidebar:: What should be here
+.. admonition:: What should be here
 
    A reminder of time and location (linked to the right page) and of course,
    a detailed schedule. I suggest embedding a google calendar (example shown: 

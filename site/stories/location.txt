@@ -5,7 +5,7 @@
 .. title: Location
 .. slug: location
 
-.. sidebar:: What should be here
+.. admonition:: What should be here
 
     This page should describe where this event takes place.
     You should mention the address, including city and everything.
