@@ -46,7 +46,7 @@ DEFAULT_LANG = "en"
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
     "en": "",
-    "es": "./es",
+#    "es": "./es",
 }
 
 # Links for the sidebar / navigation bar.
