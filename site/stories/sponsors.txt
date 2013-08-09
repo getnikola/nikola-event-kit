@@ -5,4 +5,30 @@
 .. title: Sponsors
 .. slug: sponsors
 
-Write your post here.
+.. sidebar:: What should be here
+
+   Well, if you have sponsors, then the sponsors.
+   
+   If you did not have sponsors, then remove this page from SIDEBAR_LINKS
+   in your conf.py and reconsider your event-oganizing skills.
+
+The Little Python Meeting would not be possible without the cooperation of 
+our esteemed sponsors. Consider them kindly in your future endeavours.
+
+`Weyland-Yutany Corp <http://www.weylandyutani.org/>`_ 
+------------------------------------------------------
+
+.. figure:: http://www.weylandyutani.org/i/launchwy.jpg
+
+Specialists in
+xenomorph wrangling and synthetic human configurations, happy to spread
+the word about Python!
+
+`Omni Consumer Products Corporation <http://www.omniconsumerproductscorporation.com/>`_
+---------------------------------------------------------------------------------------
+
+.. figure:: http://cdn.shopify.com/s/files/1/0073/9412/t/1/assets/logo.png?437
+
+OCP is using Python in their new law enforcement
+robotics program. Come visit us at our new Detroit offices. Job opportunities!
+

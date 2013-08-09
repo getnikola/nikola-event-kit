@@ -1,0 +1,14 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/08/08 20:59:15
+.. title: Little Python Meeting Announced
+.. slug: little-python-meeting-announced
+
+You create news using ``nikola new_post``. This will create a RSS feed, which I suggest
+you mirror into twitter using something like `twitterfeed.com <http://twitterfeed.com>`_
+
+That way you can use the nice twitter widgets in your front page and display the news there.
+
+You can edit and remove posts by just editing the contents of ``posts/``. For example,
+it is probably a very good idea to remove this one before launching your event!

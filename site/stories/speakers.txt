@@ -5,4 +5,58 @@
 .. title: Speakers
 .. slug: speakers
 
-Write your post here.
+.. sidebar:: What should be here
+
+   A list of everyone speaking either in order of importance or alphabetical,
+   with pictures, short bios and a description of what they will talk about.
+   Also, links to slideshare or speakerdeck or similar for slides used in their
+   presentations.
+   
+.. class:: pull-left
+
+.. figure:: http://bit.ly/13nkaUa
+   :width: 300px
+
+Roberto Alsina
+--------------
+
+Author of the infamous nikola-event-kit he will
+speak about the importance of not having to spend 
+a week figuring out the software you use to create
+the site of an event you are not getting any money
+to organize.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In adipiscing id lorem 
+at fringilla. Ut vulputate vestibulum bibendum. Praesent vel sodales elit, at 
+fermentum nisl. Ut leo tortor, commodo eu tortor non, placerat commodo felis. 
+Vestibulum et faucibus sapien. Praesent ornare eros in ligula tristique luctus. 
+Donec sagittis risus nec faucibus aliquet. Sed elementum tellus vel nunc 
+lacinia, eu ullamcorper magna dictum. Fusce feugiat, massa non feugiat accumsan, 
+est libero fringilla eros, sed dapibus lacus nulla non risus. Aliquam erat 
+volutpat. Nunc euismod elit vitae ipsum dictum, in rutrum velit pulvinar. Nulla 
+augue massa, lobortis non metus eget, ornare sollicitudin dui. Sed rutrum ipsum 
+porta nulla consequat mattis.
+
+-----
+
+.. class:: pull-left
+
+.. figure:: http://bit.ly/13nkaUa
+   :width: 300px
+
+Roberto Alsina
+--------------
+
+Author of the infamous nikola-event-kit he will
+speak about the importance of not having to spend 
+a week figuring out the software you use to create
+the site of an event you are not getting any money
+to organize.                                      
+
+Nullam mollis mauris enim, sed sollicitudin urna blandit ut. Ut hendrerit 
+tincidunt metus cursus elementum. Donec quis mauris nulla. Aliquam non nisl 
+tempus, scelerisque dui a, iaculis urna. Ut dictum suscipit massa. Fusce 
+eleifend magna leo, sed placerat lacus lacinia sollicitudin. Integer mauris 
+felis, ultricies ornare lobortis quis, euismod et dui. Nulla molestie eros sit 
+amet velit aliquet auctor. Nunc a mauris blandit, imperdiet nulla nec, 
+ullamcorper neque.

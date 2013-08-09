@@ -5,6 +5,7 @@
 .. title: My Little Python Meeting
 .. slug: index
 
+
 .. sidebar:: What should be here
 
    This is your landing page. So this page is the most important one!
@@ -19,9 +20,18 @@
    * Mention if the event costs money
    * Mention any big names you have speaking
    * Invite people to signup for the event (if needed)
+   * Show a news feed. I suggest a twitter widget!
+
+.. raw:: html
+    
+   <div style="float:right; margin-left: 20px; width: 150px: height: 100%;">
+   <a class="twitter-timeline" href="https://twitter.com/PythonArgentina" data-widget-id="365621742544232453">Tweets by @PythonArgentina</a>
+   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+   </div>
+
    
-What is The Little Python Meeting
----------------------------------
+What is The Little Python Meeting?
+----------------------------------
    
 The Little Python Meeting is a one-day event meant to lure people new to
 programming into worshipping significant whitespace and contemplation of
@@ -38,8 +48,8 @@ website and not `nikola-event-kit <https://github.com/ralsina/nikola-event-kit>`
 
 If you want to come, please `signup </signup/>`_ so we put aside one shirt for you.
 
-When and Where
---------------
+When and Where?
+---------------
 
 At the Royal Albert Hall, in London, January 32nd 2022 [`more details </location/>`_]
 

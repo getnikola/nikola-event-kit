@@ -5,4 +5,24 @@
 .. title: Schedule
 .. slug: schedule
 
-Write your post here.
+.. sidebar:: What should be here
+
+   A reminder of time and location (linked to the right page) and of course,
+   a detailed schedule. I suggest embedding a google calendar (example shown: 
+   english premier league) because it lets people add sessions to their own
+   calendar in their phones.
+   
+   Usually, a disclaimer mentioning things can change and to check back before
+   the event.
+
+My Little Python Meeting takes place in `Royal Albert Hall, London </location/>`_
+in January 32ns 2022, and it includes sessions spread in two tracks.
+
+Please remember that dates and times can change up to the very day of the meeting,
+so check back before you arrive.
+
+For more information about the speakers, check our `speakers page </speakers/>`_
+
+.. raw:: html
+
+   <iframe width="100%" height="600px" frameborder="0" src="https://www.google.com/calendar/embed?mode=AGENDA&height=600&wkst=1&bgcolor=%23FFFFFF&src=1rs0feasliv8gud519hirmuojg@group.calendar.google.com&color=%2329527A&ctz=Europe/London&gsessionid=pPXx5Y2OzgXBwupEFmgQ4A">
