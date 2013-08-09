@@ -5,4 +5,24 @@
 .. title: Signup
 .. slug: signup
 
-Write your post here.
+.. sidebar:: What should be here
+
+   A form to sign up for the event *if required*. It's possible to organize
+   an event without requiring this, sometimes. Describe *why* you are doing this.
+   
+   I suggest using a google form, like this one. It will end in a spreadsheet
+   anyway.
+   
+   Describe any costs involved, remember to ask for things that are optional,
+   like certificates, t-shirts, lunch, etc, so you know what you need.
+   
+If you want to attend the Little Python Meeting please fill this form, it
+will help us organize and make sure there are enough cucumber sandwiches 
+for everyone! There is no entry fee.
+
+Remember to answer "Yes" if you want the attendance certificate, or you will
+not get one.
+
+.. raw:: html
+
+   <iframe src="https://docs.google.com/forms/d/1JDF8aWgbmMCgrhAbnHJfUDntlxUk1e-zsuYuI4OYJLg/viewform?embedded=true" width="100%" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
