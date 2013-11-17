@@ -12,7 +12,7 @@ BLOG_AUTHOR = "Your Name"
 BLOG_TITLE = "My Little Python Meeting"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://pyday-foo.python.org"
+SITE_URL = "http://pyday-foo.python.org/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://nikola.ralsina.com.ar"
@@ -51,7 +51,7 @@ TRANSLATIONS = {
 
 # Links for the sidebar / navigation bar.
 # You should provide a key-value pair for each used language.
-SIDEBAR_LINKS = {
+NAVIGATION_LINKS = {
     "en": (
         ('/', 'Start'),
         ('/speakers/', 'Speakers'),
@@ -99,11 +99,13 @@ SIDEBAR_LINKS = {
 # rss feeds.
 #
 
-post_pages = (
-    ("posts/*.txt", "news", "post.tmpl", True),
-    ("posts/*.rst", "news", "post.tmpl", True),
-    ("stories/*.txt", "", "story.tmpl", False),
-    ("stories/*.rst", "", "story.tmpl", False),
+POSTS = (
+    ("posts/*.txt", "news", "post.tmpl"),
+    ("posts/*.rst", "news", "post.tmpl"),
+)
+PAGES = (
+    ("stories/*.txt", "", "story.tmpl"),
+    ("stories/*.rst", "", "story.tmpl"),
 )
 
 # One or more folders containing files to be copied as-is into the output.
@@ -119,7 +121,7 @@ post_pages = (
 # 'rest' is reStructuredText
 # 'markdown' is MarkDown
 # 'html' assumes the file is html and just copies it
-post_compilers = {
+COMPILERS = {
     "rest": ('.txt', '.rst'),
     "markdown": ('.md', '.mdown', '.markdown'),
     "textile": ('.textile',),
