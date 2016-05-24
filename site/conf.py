@@ -372,7 +372,7 @@ PRETTY_URLS = True
 # ADD_THIS_BUTTONS = True
 
 # Hide link to source for the posts?
-# HIDE_SOURCELINK = False
+HIDE_SOURCELINK = True
 
 # Modify the number of Post per Index Page
 # Defaults to 10
