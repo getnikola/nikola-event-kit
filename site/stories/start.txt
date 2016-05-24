@@ -24,7 +24,7 @@
 
 .. sidebar:: Sponsors
    
-   .. figure:: http://www.weylandyutani.org/i/launchwy.jpg
+   .. figure:: http://vignette1.wikia.nocookie.net/avp/images/3/36/Weyland-Yutani_Coporation_Logo.jpg/revision/latest/scale-to-width-down/200?cb=20141113111101
       :target: /sponsors/
       :width: 300px
       
