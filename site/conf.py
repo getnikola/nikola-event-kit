@@ -46,8 +46,9 @@ DEFAULT_LANG = "en"
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
     "en": "",
-#    "es": "./es",
+    "es": "./es",
 }
+TRANSLATIONS_PATTERN = "{path}.{ext}.{lang}"
 
 # Links for the sidebar / navigation bar.
 # You should provide a key-value pair for each used language.
@@ -508,7 +509,7 @@ PRETTY_URLS = True
 # TIMEZONE = 'Europe/Zurich'
 
 # If webassets is installed, bundle JS and CSS to make site loading faster
-# USE_BUNDLES = True
+USE_BUNDLES = False
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
@@ -529,5 +530,6 @@ PRETTY_URLS = True
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
+WRITE_TAG_CLOUD = False
 
 GLOBAL_CONTEXT = {}
